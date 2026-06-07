@@ -2,6 +2,9 @@
 
 A modern AI chatbot web application with a sleek glassmorphism UI and a backend-powered data system that fetches real-time business and website information from external APIs.
 
+# Live link
+👉🏻👉🏻 https://mh2-ai.netlify.app/
+
 ## Features
 - Real-time chatbot UI (HTML/CSS/JS)
 - Backend API integration for live data
